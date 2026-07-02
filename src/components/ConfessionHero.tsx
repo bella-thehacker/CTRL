@@ -186,7 +186,7 @@ export default function ConfessionHero() {
           e.currentTarget.style.transform = 'rotate(-3deg)'
         }}
       >
-        i hope they don't notice the bugs
+        i swear i am not out of control
       </div>
 
       {/* Scroll Indicator */}
